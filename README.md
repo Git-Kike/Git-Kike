@@ -6,10 +6,11 @@ Bienvenido a mi perfil de GitHub. Soy de Madrid, España, y mi trayectoria ha si
 
 ## 🎓 Formación
 
-- 📚 **Derecho**: Estudié Grado en Derecho en la UAM y el Máster en abogacía.
+- 🧑‍⚖️ **Derecho**: Estudié el Grado en Derecho en la Universidad Autónoma de Madrid y lo complementé con un Máster de Abogacía.
+- 🔍 **Marketing**: También realicé un Máster en MArketing y Gestión Comercial en ESIC.
 - 🏫 **Campus 42 de Madrid**: Mi interés en programación y tecnología me llevó a descubrir esta escuela tan innovadora en la que me dieron la oportunidad de formarme con ellos!
-- 🛡️ **Ciberseguridad**: Actualmente profundizando en el campo de la Ciberseguridad tras realizar dos cursos de la mano de ESIC y The Bridge.
-- 🤖 **Autodidacta**: Desde siempre intentando estar al día de todo y aprender por mi cuenta.
+- 🛡️ **Ciberseguridad**: Actualmente profundizando en el campo de la Ciberseguridad tras realizar diversos cursos gracias a las becas de INCIBE.
+- 🤖 **Autodidacta**: Desde siempre intentando estar al día de todo y aprender por mi cuenta!
   
 ## 💻 Habilidades
 
@@ -24,12 +25,12 @@ Bienvenido a mi perfil de GitHub. Soy de Madrid, España, y mi trayectoria ha si
 
 ## 🌱 Actualmente aprendiendo
 
-- 🛡️ Técnicas avanzadas de hacking ético y pruebas de penetración.
+- 🐉 Técnicas avanzadas de hacking ético y pruebas de penetración.
 - 🧑🏻‍💻 Avanzando en Python y C
 
 ## 🤝 Conéctate conmigo
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriqueoliverosmendizabal/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriqueom/)
 
 ---
 
